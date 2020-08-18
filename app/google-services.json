@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "5046743839",
+    "firebase_url": "https://ubertutorandroid.firebaseio.com",
+    "project_id": "ubertutorandroid",
+    "storage_bucket": "ubertutorandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5046743839:android:d32373fec44d20597af62a",
+        "android_client_info": {
+          "package_name": "com.example.ubertutorandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5046743839-23bhe3cmh8u2o9aeeg374bg9cvdk7hgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnafoyxja-0-wuBGnSShmmhvybvbNwIgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5046743839-23bhe3cmh8u2o9aeeg374bg9cvdk7hgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5046743839:android:20ca50a2a1356e2a7af62a",
+        "android_client_info": {
+          "package_name": "com.example.ubertutorandroidstudentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5046743839-23bhe3cmh8u2o9aeeg374bg9cvdk7hgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnafoyxja-0-wuBGnSShmmhvybvbNwIgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5046743839-23bhe3cmh8u2o9aeeg374bg9cvdk7hgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
