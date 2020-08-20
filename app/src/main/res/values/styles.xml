@@ -13,7 +13,7 @@
     </style>
 
     <style name="LoginTheme" parent="FirebaseUI">
-        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimary">@color/colorAccent</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
 
@@ -25,6 +25,7 @@
         <item name="android:textColor">@android:color/white</item>
         <item name="android:textColorPrimary">@android:color/white</item>
         <item name="android:textColorSecondary">@android:color/white</item>
+        <item name="android:textColorTertiary">@android:color/white</item>
         <item name="android:textColorHint">@android:color/darker_gray</item>
 
         <item name="windowActionBar">false</item>
@@ -32,6 +33,8 @@
         <item name="android:windowBackground">@color/colorPrimary</item>
         <item name="android:windowFullscreen">true</item>
     </style>
+
+
 
     <style name="DialogTheme" parent="android:Theme.Dialog">
         <item name="android:layout_width">match_parent</item>
